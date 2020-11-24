@@ -17,6 +17,6 @@
     "webpack-cli": "^3.3.12"
   },
   "dependencies": {
-    "edgeside": "^0.1.13"
+    "edgeside": "^0.1.14"
   }
 }
